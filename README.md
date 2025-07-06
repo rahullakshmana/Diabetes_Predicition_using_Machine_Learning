@@ -1,5 +1,5 @@
 # 🩺 Diabetes Prediction using Machine Learning  
-**Academic Project | 2025**
+**Vel Tech University | Minor Project 1 | 2024**
 
 An AI-powered diagnostic tool built using machine learning models to predict the likelihood of diabetes based on health parameters. This system compares various classification algorithms and deploys the best model for practical use.
 
